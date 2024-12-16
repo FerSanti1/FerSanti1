@@ -1,6 +1,6 @@
 👋 Hi, I’m @FerSanti1
 
-💻 I'm a Web developer.
+💻 I'm a Frontend developer.
 
 💡 Enthusiastic about crafting intuitive and appealing user interfaces.
 
